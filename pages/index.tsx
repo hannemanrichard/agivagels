@@ -77,7 +77,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta
           name="facebook-domain-verification"
-          content="0vk93c3g54k368ks9wwwse3tdnxtow"
+          content="uzqbb3dnl1kf0etxisup8shkuj0tdo"
         />
         <link rel="icon" href="/favicon.webp" />
       </Head>
